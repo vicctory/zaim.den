@@ -1,0 +1,54 @@
+[
+ {
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+      "name": "Тинькофф Банк",
+     "rating": 5,
+     "sum_one": "до 15 000 000",
+      "percent": "3.9%",
+      "term_to": "160",
+     "age": "18-65",
+		
+		"addition_1": "Оптимальна сума – до 10-15 тис грн",
+		"addition_2": "Перший кредит онлайн",
+		"addition_3": "До 10000 грн під 0.01% на день"
+  },
+ {
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/v-express-bank.png",
+     "name": "Восточный Банк",
+     "rating": 4.8,
+     "sum_one": "до 10 000 000",
+      "percent": "2.5%",
+      "term_to": "120",
+     "age": "18-70",
+		
+		"addition_1": "Оптимальна сума – до 10-15 тис грн",
+		"addition_2": "Перший кредит онлайн",
+		"addition_3": "До 10000 грн під 0.01% на день"
+},
+ {
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+     "name": "ХОУМ КРЕДИТ",
+     "rating": 4.5,
+     "sum_one": "до 13 000 000",
+      "percent": "1.9%",
+      "term_to": "150",
+     "age": "18-65",
+		
+		"addition_1": "Оптимальна сума – до 10-15 тис грн",
+		"addition_2": "Перший кредит онлайн",
+		"addition_3": "До 10000 грн під 0.01% на день"
+  },
+ {
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+      "name": "Тинькофф Банк",
+     "rating": 4.9,
+     "sum_one": "до 12 000 000",
+      "percent": "2.9%",
+      "term_to": "130",
+     "age": "18-75",
+		
+		"addition_1": "Оптимальна сума – до 10-15 тис грн",
+		"addition_2": "Перший кредит онлайн",
+		"addition_3": "До 10000 грн під 0.01% на день"
+  }
+]
